@@ -1,0 +1,2 @@
+# Cryptocurrency-Finance-Price-Tracker-WebApp
+Built a React JS application using hooks such as useState and useEffect while using Axios to interact with the Coin Gecko API.  Employed React Router Dom v6 to have dynamic routes and also utilized useParams, DOMpurify to build a single-page web application.(SPA web app) Created HTML and CSS templates for the web application and Implemented a search bar to find coins using their names.
